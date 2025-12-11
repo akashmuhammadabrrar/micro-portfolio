@@ -2,6 +2,15 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+## This is for .env.local
+{
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_dGlkeS1nYXRvci03Ni5jbGVyay5hY2NvdW50cy5kZXYk
+CLERK_SECRET_KEY=sk_test_0o8UfmYGjcGdYvOVeQ5hOfbyC0yfLAFntgi0GLHVyi
+NEXT_PUBLIC_SANITY_PROJECT_ID="19ep6i7n"
+NEXT_PUBLIC_SANITY_DATASET="production"
+
+}
+
 First, run the development server:
 
 ```bash
